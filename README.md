@@ -15,3 +15,4 @@ I'm a flag, im inside of the docs, use grep to find me. \
 My lucky number is 4620 :)
 
 # Sumbit the flag here:
+https://forms.gle/cdbT2d2UoZiL36hU6
